@@ -1,0 +1,37 @@
+{
+# Common
+'True' : 'Ligado',
+'False' : 'Desligado',
+'Yes' : 'Sim',
+'No' : 'Não',
+'Back' : 'Voltar',
+'Next' : 'Próximo',
+'Previous' : 'Anterior',
+'GameOver' : 'Fim de Jogo',
+'EndingText' : "Parabéns! Gregory foi capaz de chegar no cativeiro do mago malvado e resgatar o operador de marionetes! Boris fugiu mais uma vez, mas felizmente ambos os mundos vão voltar ao normal agora! Obrigado por jogar! :)",
+
+# Main menu
+'Play' : 'Iniciar Jogo',
+'Settings' : 'Ajustes',
+'About' : 'Sobre',
+'Quit' : 'Sair',
+'Fullscreen' : 'Tela Cheia',
+'QuitConfirm' : 'Tem certeza que quer sair?',
+
+'AboutText' : "Este jogo foi criado por Joel Gomes da Silva (joelgomes1994) para a game jam do Blender Artist's BGMC 30. Ele foi feito em apenas quatro dias, sobre o tema 'Espadas & Magia'. Espero que curta! :)",
+
+'Prologue1' : "Gregory - o conselheiro do reino de Iluminia - sempre mostra um orgulhoso brilho em seus olhos. Com os melhores conhecimentos e habilidades, está acostumado a frustrar os planos do mago malvado Boris, que há muito quer tomar o reino.",
+'Prologue2' : "Hoje, porém, Gregory está se sentindo estranho... Espere, Gregory está sentindo algo? Ele não deveria sentir nada, Gregory é uma marionete! Subitamente, uma estranha visão pela mesma magia que o deu vida mostra que Boris foi capaz de unir o mundo de Iluminia e o mundo do operador de marionetes, transformando quase todos em monstros sem mente.",
+'Prologue3' : "A mesma visão mostra que o operador de marionetes está sendo mantido preso por Boris, e parece que ele é a chave para trazer tudo de volta ao normal. Gregory será capaz de salvar o operador e ambos os mundos?",
+
+# In-game GUI
+'GuiLife' : 'Vida:',
+'GuiExp' : 'Exp:',
+'GuiMagic' : 'Magia:',
+'GuiEnergy' : 'Energia:',
+
+# Pause menu
+'Paused' : 'O jogo está pausado',
+'Resume' : 'Resumir Jogo',
+'QuitToMenu' : 'Sair Para O Menu'
+}

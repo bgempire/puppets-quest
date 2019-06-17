@@ -1,0 +1,37 @@
+{
+# Common
+'True' : 'On',
+'False' : 'Off',
+'Yes' : 'Yes',
+'No' : 'No',
+'Back' : 'Back',
+'Next' : 'Next',
+'Previous' : 'Previous',
+'GameOver' : 'Game Over',
+'EndingText' : "Congratulations! Gregory was able to reach the evil mage captivity and rescue the puppet's operator! Boris has escaped once again, but fortunately both worlds are going back to normal now! Thank you for playing! :)",
+
+# Main menu
+'Play' : 'Play Game',
+'Settings' : 'Settings',
+'About' : 'About',
+'Quit' : 'Quit',
+'Fullscreen' : 'Fullscreen',
+'QuitConfirm' : 'Do you really want to quit?',
+
+'AboutText' : "This game was created by Joel Gomes da Silva (joelgomes1994) for the Blender Artist's game jam BGMC 30. It was made in just four days, with the theme 'Swords & Magic'. I hope you enjoy! :)",
+
+'Prologue1' : "Gregory - the counselor of the Iluminia kingdom - always shows a proud bright in his eyes. With the finest knowledge and abilities, he is used to overcome the plans of the evil mage Boris, who wants to take over the kingdom over a long time.",
+'Prologue2' : "Today, however, Gregory is feeling strange… Wait, Gregory is feeling something? He should’ve not feel anything, Gregory is a puppet! Suddenly, a strange glimpse from the same magic which gave him life shows that Boris was able to merge the world of Iluminia and the world of the puppet’s operator, transforming almost everyone into mindless monsters.",
+'Prologue3' : "The same glimpse shows that the puppet’s operator is being kept captive by Boris, and it seems he is the key to bring everything to normal again. Will Gregory be able to save the operator and both worlds?",
+
+# In-game GUI
+'GuiLife' : 'Life:',
+'GuiExp' : 'Exp:',
+'GuiMagic' : 'Magic:',
+'GuiEnergy' : 'Energy:',
+
+# Pause menu
+'Paused' : 'Game is paused',
+'Resume' : 'Resume Game',
+'QuitToMenu' : 'Quit To Menu'
+}

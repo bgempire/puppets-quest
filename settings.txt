@@ -1,0 +1,9 @@
+{
+'KeyUp' : 'WKEY',
+'KeyDown' : 'SKEY',
+'KeyLeft' : 'AKEY',
+'KeyRight' : 'RKEY',
+'KeyMap' : 'MKEY',
+'Lang' : 'English',
+'Fullscreen' : False
+}
