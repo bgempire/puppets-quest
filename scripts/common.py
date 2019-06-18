@@ -12,3 +12,15 @@ def faceToCamera(cont):
 	if sensor.positive:
 		track.object = own.scene.active_camera
 		cont.activate(track)
+		
+def resetAttributes(cont):
+	
+	globalDict['Attributes'] = {
+								'Strength' : 10,
+								'Life' : 100,
+								'MaxLife' : 100,
+								'Energy' : 100,
+								'MaxEnergy' : 100,
+								'Exp' : 0,
+								'Magic' : 'Normal'
+								}
