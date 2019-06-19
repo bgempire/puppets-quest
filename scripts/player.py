@@ -276,8 +276,10 @@ def swordHit(cont):
 			
 			if globalDict['Attributes']['Magic'] != 'Normal' and globalDict['Attributes']['Energy'] >= globalDict['Attributes']['Strength']:
 				globalDict['Attributes']['Energy'] -= globalDict['Attributes']['Strength']
-			
-			collision.hitObject['Life'] -= globalDict['Attributes']['Strength'] * own['Attack']
+				
+			for obj in collision.hitObjectList:
+				obj['Life'] -= globalDict['Attributes']['Strength'] * own['Attack']
+				
 			player['Hitboxes'][own['Attack']] = None
 			own.sendMessage('SwordHit')
 			own.endObject()
