@@ -1,0 +1,37 @@
+{
+# Common
+'True' : 'Prendido',
+'False' : 'Apagado',
+'Yes' : 'Sí',
+'No' : 'No',
+'Back' : 'Volver',
+'Next' : 'Siguiente',
+'Previous' : 'Anterior',
+'GameOver' : 'Juego terminado',
+'EndingText' : "¡Felicidades! ¡Gregory pudo alcanzar el cautiverio del mago malvado y rescatar al operador del títere! Boris ha escapado una vez más, ¡pero afortunadamente ambos mundos están volviendo a la normalidad ahora! ¡Gracias por jugar! :)",
+
+# Main menu
+'Play' : 'Jugar',
+'Settings' : 'Ajustes',
+'About' : 'Acerca',
+'Quit' : 'Salir',
+'Fullscreen' : 'Pantalla completa',
+'QuitConfirm' : '¿Realmente deseas salir?',
+
+'AboutText' : "Este juego fue creado por Joel Gomes da Silva (joelgomes1994) durante la Blender Artist's Game Jam BGMC 30. Se hizo en solo cuatro días, con el tema 'Swords & Magic'. ¡Espero que disfrutes! :)",
+
+'Prologue1' : "Gregory, el consejero del reino de Iluminia, siempre muestra un brillo de orgullo en sus ojos. Con los mejores conocimientos y habilidades, está acostumbrado a superar los planes del mago malvado Boris, que quiere apoderarse del reino desde hace mucho tiempo.",
+'Prologue2' : "Hoy, sin embargo, Gregory se siente extraño... Espera, ¿Gregory está sintiendo algo? No debería haber sentido nada, ¡Gregory es una marioneta! De repente, un extraño vistazo de la misma magia que le dio vida muestra que Boris ha sido capaz de fusionar el mundo de Iluminia y el mundo del operador de la marioneta, transformando a casi todos en monstruos irracionales.",
+'Prologue3' : "El mismo vistazo muestra que Boris mantiene cautivo al operador del títere, y parece que él es la clave para que todo vuelva a la normalidad. ¿Podrá Gregory salvar al operador y a ambos mundos?",
+
+# In-game GUI
+'GuiLife' : 'Vida:',
+'GuiExp' : 'Exp:',
+'GuiMagic' : 'Magia:',
+'GuiEnergy' : 'Energía:',
+
+# Pause menu
+'Paused' : 'Juego pausado',
+'Resume' : 'Reanudar juego',
+'QuitToMenu' : 'Salir al Menú'
+}
